@@ -1,0 +1,2 @@
+Hello this Synchronous Reading Of File 
+ This is the Extra Data

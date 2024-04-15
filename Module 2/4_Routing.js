@@ -7,7 +7,6 @@ const server = http.createServer(function(req, res){
         res.writeHead(200, {
             'ContentType': 'text/html'
         });
-
         res.end("<h1>Welcome to the HomePage</h1>");
     }
     else{
